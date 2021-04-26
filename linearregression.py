@@ -16,7 +16,7 @@ st.title("Predicción salario ")
 st.markdown("**Guarda las imagenes en la carpeta assets como png**")
 #checking the data
 st.write("Esta es una aplicación para averiguar qué rango de salario elige usando el aprendizaje automático.")
-check_data = st.checkbox("Visualizar la DATA (head()2)")
+check_data = st.checkbox("Visualizar el dataset")
 if check_data:
     st.write(data.head(2))
     st.write(data.describe())
