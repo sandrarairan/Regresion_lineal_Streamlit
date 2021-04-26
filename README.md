@@ -13,3 +13,6 @@ Regresión Lineal con Streamlit (predecir el salario)
 
 3. run the app
 **streamlit run app.py**
+
+
+![App _prdecir salario](https://github.com/sandrarairan/Regresion_lineal_Streamlit/blob/master/predecir.png)
